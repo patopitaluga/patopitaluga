@@ -13,13 +13,13 @@ Sorry for the mess. Among my abandoned projects and weird experiments there are 
   - Multi-clipboard: https://patopitaluga.github.io/multiclipboard/
   - The Notify Parrot: https://github.com/patopitaluga/notifyparrot
 
-2. You're me looking for some troubleshooting, code snippets or documentation:
+2. You're **me** looking for some troubleshooting, code snippets or documentation:
 
   - https://github.com/patopitaluga/patooverflow
 
 3. You're checking me out to see if I'm a good programmer. In that case:
 
-  - *Yes, I am.*
+  - **Yes, I am.**
 
 # *Así que este es mi perfil de GitHub*
 
