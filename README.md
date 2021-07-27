@@ -30,8 +30,18 @@ Sorry for the mess. Among my abandoned projects and weird experiments there are 
 
 *Perdón por el desorden. Entre mis proyectos abandonados y experimentos extraños aquí hay verdaderas joyas del código.*
 
+------------
+
+# Youtube
+
+Hablo de programación y otras cosas en mi canal de youtube:
+
+https://www.youtube.com/channel/UC8ZIOJMHKh0XcuhCTWNkwiA
+
+------------
+
+# Art
+
 Also I do digital art inspired by ASCII and ANSI art
 
 ![art](https://patopitaluga.github.io/patopitaluga/text-art.jpg "art")
-
-.
