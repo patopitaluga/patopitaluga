@@ -33,3 +33,5 @@ Sorry for the mess. Among my abandoned projects and weird experiments there are 
 Also I do digital art inspired by ASCII and ANSI art
 
 ![art](https://patopitaluga.github.io/patopitaluga/text-art.jpg "art")
+
+.
